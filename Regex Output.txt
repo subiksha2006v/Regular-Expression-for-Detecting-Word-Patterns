@@ -1,0 +1,5 @@
+Single word detected: ['AI']
+Words starting with 'ma': ['machine']
+Words ending with 'ing': ['learning']
+Four-letter words: ['Data']
+Capitalized words: ['Data']
